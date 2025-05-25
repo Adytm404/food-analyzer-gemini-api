@@ -1,0 +1,7 @@
+{
+  "name": "NutriSnap - Calorie Tracker",
+  "description": "A mobile-focused web application to estimate calories, fat, and sugar from food photos using Gemini API. It also provides history and nutritional reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
